@@ -42,5 +42,5 @@ if($_POST){
 if (!mysqli_query($connection,$sql)){
     
     echo "Error-data not inserted";
-    echo mysqli_error($connection);
+    
 }
