@@ -1,3 +1,8 @@
+<?php
+require 'sessions.php';
+?>
+
+
 <a href="new_message.php">Create a new message</a>
 
 <br><br>
