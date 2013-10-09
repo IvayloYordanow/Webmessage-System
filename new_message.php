@@ -1,3 +1,9 @@
+<?php
+require 'sessions.php';
+?>
+
+
+
 <h3>Please type your message<h3>
  <?php
 $today = date("Y-m-d g:i:s");
